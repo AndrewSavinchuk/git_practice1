@@ -9,6 +9,9 @@ public class HelloWorld {
     // Awesome work 3 is done a nd ready to be committed
     //and ready to be pushed to remote repository
 
+    public static void main(String[] args) {
+        System.out.println("Hello world");
+    }
 
 
 }
